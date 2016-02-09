@@ -1,0 +1,27 @@
+View port for mobile.
+
+End of this First project:
+- Host on Amazon
+- Viewport to show properly on mobile
+- Change the initial music to something else
+
+Finished:
+- Hosted on Amazon. URL of game is http://oren.com.s3-website-eu-west-1.amazonaws.com/
+- Viewport changes according to window (resize and reload - it's not dynamic)
+- Music was shortened accordingly.
+
+
+
+Project 2 planning
+Possible next technologies
+- using a game engine
+- making it work on a mobile phone
+- Just using sprite sheet
+
+
+technology I chose
+- using sprite sheet
+- 
+
+Game I will develop ...
+
